@@ -1,13 +1,13 @@
-<h1 align="center">Hola 👋, soy Santiago Garcia</h1>
-<h3 align="center">Un estudiante de ingeniera en sistemas y computación, de la universidad del Quindio. Un estudiante que disfruta aprender programación y disfruta programando.</h3>
+<h1 align="center">Hello 👋, I'm Santiago Garcia</h1>
+<h3 align="center">A computer and systems engineering student from the Universidad del Quindio. A student who enjoys learning and programming.</h3>
 
-- 🔭 Actualmente estudio en la **Univeridad del Quindio**
+- 🔭 Currently I am studying at ** University del Quindio **
 
-- 🌱 Estoy estudiando **Java, y diseño de paginas.**
+- 🌱 I'm studying ** Java, and page design. **
 
-- 📫 Mi correo es **santiago.garciac1@uqvirtual.edu.co**
+- 📫 My email is **santiago.garciac1@uqvirtual.edu.co**
 
-- Mis proyectos son muy básicos y pocos **https://github.com/SantiiagoGC?tab=repositories**
+- My projects are very basic and few **https://github.com/SantiiagoGC?tab=repositories**
 
 - ⚡ Fun fact **Me gusta jugar LoL**
 
