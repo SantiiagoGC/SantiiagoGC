@@ -1,15 +1,15 @@
 <h1 align="center">Hello 👋, I'm Santiago Garcia</h1>
 <h3 align="center">A computer and systems engineering student from the Universidad del Quindio. A student who enjoys learning and programming.</h3>
 
-- 🔭 Currently I am studying at ** University del Quindio **
+- 🔭 Currently I am studying at  University of Quindio.
 
-- 🌱 I'm studying ** Java, and page design. **
+- 🌱 I'm studying  Java, and page design. 
 
-- 📫 My email is **santiago.garciac1@uqvirtual.edu.co**
+- 📫 My email is santiago.garciac1@uqvirtual.edu.co
 
-- My projects are very basic and few **https://github.com/SantiiagoGC?tab=repositories**
+- My projects are very basic and few https://github.com/SantiiagoGC?tab=repositories
 
-- ⚡ Fun fact **Me gusta jugar LoL**
+- ⚡ Fun fact Me gusta jugar LoL
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
